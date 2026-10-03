@@ -15,3 +15,8 @@
 - Doctor Octopus (Otto Octavius)
 - Venom (Eddie Brock)
 - Sandman (Flint Marko)
+
+## Familiares
+- Tía May (May Parker)
+- Tío Ben (Ben Parker)
+- Mary Jane Watson (pareja sentimental)
