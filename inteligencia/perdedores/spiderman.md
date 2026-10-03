@@ -25,3 +25,9 @@
 - Spider-Man (2002)
 - Spider-Man 2 (2004)
 - Spider-Man 3 (2007)
+
+## Enemigos en el cine
+- Green Goblin (Willem Dafoe)
+- Doctor Octopus (Alfred Molina)
+- Venom (Topher Grace)
+- Sandman (Thomas Haden Church)
