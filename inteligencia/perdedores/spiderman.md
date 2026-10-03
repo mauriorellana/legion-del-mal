@@ -20,3 +20,8 @@
 - Tía May (May Parker)
 - Tío Ben (Ben Parker)
 - Mary Jane Watson (pareja sentimental)
+
+## Peliculas
+- Spider-Man (2002)
+- Spider-Man 2 (2004)
+- Spider-Man 3 (2007)
