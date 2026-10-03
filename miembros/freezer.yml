@@ -1,0 +1,19 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Freezer"
+universo: DBZ
+rango: "Emperador Galáctico"
+estado: activo
+perfil:
+  identidad_publica: "Emperador del Universo, líder de un vasto imperio galáctico"
+  motivacion: "Dominar el universo y eliminar a cualquier amenaza que se interponga en su camino, especialmente a los Saiyajin."
+  frase_celebre: "El poder es la única ley que importa."
+
+poderes:
+  - "Transformación: Freezer puede transformarse en varias formas, aumentando su poder y velocidad con cada transformación."
+  - "Manipulación de energía: Puede disparar poderosas ráfagas de energía y crear esferas destructivas."
+  - "Vuelo: Freezer puede volar a velocidades increíbles, lo que le permite moverse rápidamente por el espacio."
+  - "Telequinesis: Tiene la capacidad de mover objetos y personas con su mente."
+  - "Regeneración: En ciertas formas, Freezer puede recuperarse de heridas graves."
