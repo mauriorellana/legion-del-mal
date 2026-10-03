@@ -6,3 +6,12 @@
 **Recopilado por:** Mystique (infiltrada en la Universidad de Nueva York durante 2 meses)
 
 ---
+
+# Spiderman
+
+## Enemigos
+
+- Green Goblin (Norman Osborn)
+- Doctor Octopus (Otto Octavius)
+- Venom (Eddie Brock)
+- Sandman (Flint Marko)
