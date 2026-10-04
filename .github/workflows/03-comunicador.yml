@@ -20,7 +20,7 @@ on:
                 type: choice
                 options:
                     - eyes
-                    - ghostbuster
+                    - ghostbusters
                     - dragon
                     - fox
                     - king
