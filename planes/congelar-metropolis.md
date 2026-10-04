@@ -10,3 +10,9 @@ El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y preser
 4. **Monitoreo del proceso**: Supervisa el estado de la ciudad durante el proceso de congelación para asegurarte de que todo funcione correctamente y no haya fallos en el sistema.
 5. **Mantenimiento del estado congelado**: Una vez que la ciudad esté congelada, realiza inspecciones periódicas para garantizar que el estado de congelación se mantenga y que no haya daños en la infraestructura.
 6. **Descongelación controlada**: Cuando sea necesario descongelar la ciudad, sigue un protocolo seguro para restaurar el flujo normal de tiempo y actividad, asegurándote de que todos los sistemas vuelvan a funcionar correctamente.
+
+## Plan de escape
+
+- En caso de que el proceso de congelación falle o se presenten emergencias, ten un plan de escape claro y accesible para todos los involucrados. Esto incluye rutas de evacuación, puntos de reunión y comunicación con las autoridades locales.
+
+- Asegúrate de que todos los miembros del equipo estén capacitados en procedimientos de emergencia y sepan cómo actuar en caso de que algo salga mal durante el proceso de congelación.
