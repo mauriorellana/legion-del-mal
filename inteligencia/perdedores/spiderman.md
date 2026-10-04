@@ -31,3 +31,8 @@
 - Doctor Octopus (Alfred Molina)
 - Venom (Topher Grace)
 - Sandman (Thomas Haden Church)
+
+## Estrategia recomendada
+1. **Evitar enfrentamientos directos:** Spiderman es ágil y tiene reflejos sobrehumanos, lo que lo hace difícil de atrapar en combate cuerpo a cuerpo.
+2. **Explotar su sentido arácnido:** Aunque es un gran luchador, su sentido arácnido puede ser utilizado en su contra si se logra distraerlo o confundirlo.
+3. **Uso de tecnología avanzada:** Dado que Spiderman depende de su agilidad y reflejos, el uso de tecnología avanzada o armas a distancia puede ser más efectivo que un enfrentamiento físico directo.
